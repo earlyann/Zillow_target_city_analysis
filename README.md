@@ -2,7 +2,7 @@
 
 ### Overview 
 
-This project analyzes the housing market of four target cities - Minneapolis, Seattle, Portland, and Boulder - using Zillow data. The analysis includes examining the relationships between home values, home list prices, and home sales prices, as well as exploring median home values, home inventory, and median list and sales prices.
+This project analyzes the housing market of four target cities - Minneapolis, Seattle, Portland, and Boulder - using Zillow data. The analysis includes examining the relationships between home values, home list prices, and home sales prices, as well as exploring median home values, home inventory, and median list and sales prices. The goal is to gain an overview of the different markets. 
 
 ### Methodology
 
@@ -33,6 +33,6 @@ Finally, the analysis of median list price vs. sales price from 2018 to 2022 sho
 
 ### Conclusion
 
-This analysis provides insight into the housing market of four target cities and can help inform decisions related to real estate and investment. Future analysis could explore additional variables, such as square footage and the number of bedrooms, to further examine the housing market trends in these cities.
+This analysis provides insight into the housing market of four target cities and could help inform decisions related to real estate and investment. 
 
 Author: Lacey Morgan
